@@ -22,6 +22,8 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'faker', '2.1.2'
 
+gem 'kaminari'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
